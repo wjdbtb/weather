@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+<city id="1">
+		<wend>15℃/40℃</wend>
+		<tianq>晴天多云</tianq>
+		<minz>上海</minz>
+		<pm>80</pm>
+		<fong>2级</fong>
+		<shid>20%</shid>
+		<jiany>天气好去玩的好天气</jiany>
+</city>
+<city id="2">
+		<wend>30℃/40℃</wend>
+		<tianq>晴天</tianq>
+		<minz>北京</minz>
+		<pm>68</pm>
+		<fong>3级</fong>
+		<shid>30%</shid>
+		<jiany>太阳大，出去请带太阳伞</jiany>
+</city>
+<city id="3">
+		<wend>10℃/20℃</wend>
+		<tianq>多云</tianq>
+		<minz>长沙</minz>
+		<pm>50</pm>
+		<fong>4级</fong>
+		<shid>40%</shid>
+		<jiany>不宜远行</jiany>
+</city>
+<city id="4">
+		<wend>10℃/20℃</wend>
+		<tianq>多云</tianq>
+		<minz>娄底</minz>
+		<pm>40</pm>
+		<fong>6级</fong>
+		<shid>40%</shid>
+		<jiany>在家玩把</jiany>
+</city>
+</infos>
